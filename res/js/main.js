@@ -8,7 +8,7 @@ let clickIncreasePrice = 100;
 
 let autoclickerIncrease = 0;
 let autoclickerPrice = 200;
-
+//jj
 cookie.onclick = () => {
   cookies += clickIncrease;
   counter.innerHTML = cookies;
