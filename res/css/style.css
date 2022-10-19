@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+body{
+  background: url("../img/shreakova\ bažina.png");
+  background-size: cover;
+}
+#cookie {
+  width: 100%;
+  max-width: 260px;
+  display: block;
+  margin: 0 auto;
+}
+#counter {
+  text-align: center;
+  font-size: 24px;
+  font-family: "Roboto Mono", monospace;
+}
+#clickupgrade {
+  width: 100%;
+  max-width: 260px;
+  display: block;
+  margin: 0 auto;
+}
+#autoclicker {
+  width: 100%;
+  max-width: 260px;
+  display: block;
+  margin: 0 auto;
+}
